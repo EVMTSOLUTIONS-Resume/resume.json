@@ -111,9 +111,9 @@
         "Web Publishing",
         "Adobe Acrobat",
         "Bluebeam",
-        "Sharepoint",
+        "SharePoint",
         "Accounts Payable",
-        "Accounts Recievable",
+        "Accounts Receivable",
         "Invoicing"
       ],
       "level": "",
@@ -123,16 +123,16 @@
       "keywords": [
         "Workface Planning",
         "Scheduling",
-        "Project Managment",
+        "Project Management",
         "LEM's",
         "Residential",
         "Commercial",
         "Industrial",
         "Cost Control",
-        "Resourse Loading"
+        "Resource Loading"
       ],
       "level": "",
-      "name": "Construction Managment"
+      "name": "Construction Management"
     },
     {
       "keywords": [
@@ -140,7 +140,7 @@
         "Mac - OSX",
         "Linux",
         "Chrome",
-        "IBM - AS400 - I Serires",
+        "IBM - AS400 - I Series",
         "IOT"
       ],
       "level": "",
@@ -149,7 +149,7 @@
     {
       "keywords": [
         "Tilos",
-        "Primaveria",
+        "Primavera",
         "Hard Dollar",
         "InEight - Estimate",
         "InEight - Control"
@@ -165,12 +165,12 @@
         "GitHub"
       ],
       "level": "",
-      "name": "Colabreative Platforms"
+      "name": "Collaborative Platforms"
     },
     {
       "keywords": [
         "Class 5 DL",
-        "Air Break Endorcement",
+        "Air Brake Endorsement",
         "Goose Neck Trailers",
         "Bumper Pull",
         "Dispatch"
@@ -181,7 +181,7 @@
   ],
 	"awards": [
     {
-      "title": "HD Preformance P101 & P201",
+      "title": "HD Performance P101 & P201",
       "awarder": "InEight"
     },
     {
@@ -189,7 +189,7 @@
       "awarder": "Microsoft"
     },
     {
-      "title": "Microsoft Certified Systems Enginner (MCSE)",
+      "title": "Microsoft Certified Systems Engineer (MCSE)",
       "awarder": "Microsoft"
     },
     {
@@ -223,7 +223,7 @@
       "startDate": "2020-01-21",
       "endDate": "2020-03-17",
       "highlights": [
-        "Streamlined Propsal / Estimating Process"
+        "Streamlined Proposal / Estimating Process"
       ]
     },
     {
@@ -236,8 +236,8 @@
       "endDate": "2020-01-20",
       "highlights": [
         "Preliminary Construction Schedule - Watay Project",
-        "Construction Schedule - Trans Mountain Expansion Project - Kingsvale roject",
-        "Introduced PowerQuery and Power BI for Reporting"
+        "Construction Schedule - Trans Mountain Expansion Project - Kingsvale project",
+        "Introduced Power Query and Power BI for Reporting"
       ]
     },
     {
@@ -249,7 +249,7 @@
       "startDate": "2019-01-18",
       "endDate": "2019-06-20",
       "highlights": [
-        "Daily LEMS and Productivies to Client",
+        "Daily LEMS and Productivity to Client",
         "25 Million Mechanical Install Contract",
         "12 Subcontractors - 500,000 sf Food Processing Facility"
       ]
@@ -277,9 +277,9 @@
       "startDate": "2015-02-08",
       "endDate": "2016-06-15",
       "highlights": [
-        "Suncor Fort Hills Convyor and Crusher Install",
+        "Suncor Fort Hills Conveyor and Crusher Install",
         "Furnace and Cracker Shutdown Planning Agrium - Redwater",
-        "Implemented Earned Value Managment Tracking System"
+        "Implemented Earned Value Management Tracking System"
       ]
     },
     {
@@ -291,15 +291,15 @@
       "startDate": "2014-03-15",
       "endDate": "2014-12-20",
       "highlights": [
-        "Retrofit 30 Year Old Stacker Reclaimer",
+        "Retrofit 30-Year-Old Stacker Reclaimer",
         "Detailed Level 5 Schedule",
-        "Daily Subcontractor Managment"
+        "Daily Subcontractor Management"
       ]
     },
     {
       "summary": "",
       "website": "https://www.clearstreamenergy.ca/",
-      "company": "Clearstream Energy",
+      "company": "Clear Stream Energy",
       "location": "Lloydminster, SK",
       "position": "Project Coordinator",
       "startDate": "2013-05-08",
@@ -307,7 +307,7 @@
       "highlights": [
         "Major Full Facility 50 Day Shutdown",
         "Small Capitol Project Team",
-        "Multi Contractor Cordination"
+        "Multi Contractor Coordination"
       ]
     },
     {
@@ -321,7 +321,7 @@
       "highlights": [
         "Cold Lake Air Weapons Range - Christina Lake",
         "90 Plus Work packages",
-        "Client Supplied Resourse Coordination"
+        "Client Supplied Resource Coordination"
       ]
     },
     {
@@ -333,9 +333,9 @@
       "startDate": "2012-05-08",
       "endDate": "2012-11-09",
       "highlights": [
-        "Multi Client and Multi Project Modualerization",
-        "Daily Disipline Scorecards ",
-        "Weld map Workface planning intergration"
+        "Multi Client and Multi Project Modularization",
+        "Daily Discipline Scorecards ",
+        "Weld map Workface planning integration"
       ]
     },
     {
@@ -347,9 +347,9 @@
       "startDate": "2011-05-08",
       "endDate": "2012-04-27",
       "highlights": [
-        "Quantity Survey/Tracking and Invoice Preperation",
-        "Travel and Accomadication Coordination",
-        "Change Managment"
+        "Quantity Survey/Tracking and Invoice Preparation",
+        "Travel and Accommodation Coordination",
+        "Change Management"
       ]
     },
     {
@@ -362,8 +362,8 @@
       "endDate": "2011-05-01",
       "highlights": [
         "Daily Client LEMS",
-        "HR / Trades Liasion",
-        "Travel and Accomadication Coordination"
+        "HR / Trades Liaison",
+        "Travel and Accommodation Coordination"
       ]
     },
     {
@@ -398,7 +398,7 @@
       "summary": "",
       "website": "",
       "company": "Vegreville Senior Housing",
-      "position": "Interm - Chief Administrative Officer",
+      "position": "Interim - Chief Administrative Officer",
       "location": "Vegreville, AB",
       "startDate": "2006-10-27",
       "endDate": "2007-01-27",
@@ -445,7 +445,7 @@
       "summary": "",
       "website": "http://www.bellmts.ca/",
       "company": "MTS - Allstream",
-      "position": "Bussiness Analyst ICMS - AS400",
+      "position": "Business Analyst ICMS - AS400",
       "location": "Calgary, AB",
       "startDate": "1999-07-15",
       "endDate": "2004-04-15",
@@ -543,7 +543,7 @@
     {
       "summary": "",
       "website": "",
-      "company": "Jaspers Family Restarount",
+      "company": "Jaspers Family Restaurant",
       "position": "Back Shift Cook",
       "location": "Sydney, NS",
       "startDate": "1992-05-08",
@@ -565,7 +565,7 @@
     {
       "summary": "",
       "website": "https://www.marriott.com/four-points-halifax",
-      "company": "Sherton",
+      "company": "Sheraton",
       "position": "2nd Cook",
       "location": "Halifax, NS",
       "startDate": "1990-05-15",
@@ -599,7 +599,7 @@
       "summary": "",
       "website": "https://www.mcdonalds.ca",
       "company": "McDonalds",
-      "position": "Kitchen / Comuster Service",
+      "position": "Kitchen / Customer Service",
       "location": "Sydney River, NS",
       "startDate": "1985-12-12",
       "endDate": "1986-10-17",
@@ -610,7 +610,7 @@
       "summary": "",
       "website": "",
       "company": "Sears Canada",
-      "position": "Door to Door Catalog Delevery",
+      "position": "Door to Door Catalog Delivery",
       "location": "Coxheath, NS",
       "startDate": "1983-01-01",
       "endDate": "1985-09-01",
