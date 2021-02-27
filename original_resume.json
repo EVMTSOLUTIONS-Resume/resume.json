@@ -1,0 +1,661 @@
+{
+  "basics": {
+    "name": "Mark D Hamm",
+    "label": "Scheduler - Reporting Engineer - Project Controls - Estimator - Data Scientist",
+    "picture": "",
+    "email": "mark.d.hamm@outlook.com",
+    "phone": "(780) 868-5726",
+    "website": "https://ca.linkedin.com/in/mark-hamm-60ba4934",
+    "summary": "Data Analyst with twenty plus years of experience,",
+    "location": {
+      "address": "4717 50a Street",
+      "postalCode": "T9C 1L8",
+      "city": "Vegreville",
+      "countryCode": "CDN",
+      "region": "Alberta"
+    },
+    "profiles": [
+      {
+        "username": "Mark Hamm",
+        "url": "https://ca.linkedin.com/in/mark-hamm-60ba4934",
+        "network": "LinkedIn"
+      },
+      {
+        "url": "https://github.com/markdhamm",
+        "username": "markdhamm",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2022-02-01",
+      "startDate": "2018-02-01",
+      "area": "Project Management Professional",
+      "studyType": "Certification",
+      "institution": "Online"
+    },
+    {
+      "endDate": "2009-03-12",
+      "startDate": "2009-01-08",
+      "area": "Crane and Hoist",
+      "studyType": "Apprenticeship",
+      "institution": "Northern Alberta Institute of Technology"
+    },
+    {
+      "endDate": "2004-12-18",
+      "startDate": "2004-10-01",
+      "area": "Steamfitter / Pipefitter",
+      "studyType": "Apprenticeship",
+      "institution": "Northern Alberta Institute of Technology"
+    },
+    {
+      "endDate": "2004-05-01",
+      "startDate": "2004-04-01",
+      "area": "Heavy Equipment Operator",
+      "studyType": "Certification",
+      "institution": "Okanagan College's Vernon campus"
+    },
+    {
+      "endDate": "1999-05-01",
+      "startDate": "1998-07-01",
+      "area": "Information Technology Professional",
+      "studyType": "Certification",
+      "institution": "Southern Alberta Institute of Technology"
+    },
+    {
+      "endDate": "1995-05-01",
+      "startDate": "1994-09-01",
+      "area": "Graphic Communications",
+      "studyType": "Certification",
+      "institution": "Northern Alberta Institute of Technology"
+    },
+    {
+      "endDate": "1991-05-31",
+      "startDate": "1990-09-06",
+      "area": "Commercial Cooking",
+      "studyType": "Apprenticeship",
+      "institution": "Nova Scotia Community College"
+    },
+    {
+      "endDate": "1990-04-30",
+      "startDate": "1989-01-09",
+      "area": "Culinary Arts",
+      "studyType": "Apprenticeship",
+      "institution": "Holland College"
+    },
+    {
+      "endDate": "1989-06-24",
+      "startDate": "1985-09-06",
+      "area": "High School",
+      "studyType": "Academic",
+      "institution": "Riverview Rural High School"
+    }
+  ],
+  "references": [
+    {
+      "reference": "ref 1"
+    },
+    {
+      "reference": "ref 2"
+    },
+    {
+      "reference": "Ref 3"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Microsoft Office 365",
+        "Google Suite",
+        "Web Publishing",
+        "Adobe Acrobat",
+        "Bluebeam",
+        "Sharepoint",
+        "Accounts Payable",
+        "Accounts Recievable",
+        "Invoicing"
+      ],
+      "level": "",
+      "name": "Office Skills"
+    },
+    {
+      "keywords": [
+        "Workface Planning",
+        "Scheduling",
+        "Project Managment",
+        "LEM's",
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Cost Control",
+        "Resourse Loading"
+      ],
+      "level": "",
+      "name": "Construction Managment"
+    },
+    {
+      "keywords": [
+        "Windows",
+        "Mac - OSX",
+        "Linux",
+        "Chrome",
+        "IBM - AS400 - I Serires",
+        "IOT"
+      ],
+      "level": "",
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [
+        "Tilos",
+        "Primaveria",
+        "Hard Dollar",
+        "InEight - Estimate",
+        "InEight - Control"
+      ],
+      "level": "",
+      "name": "Speciality Software"
+    },
+    {
+      "keywords": [
+        "Teams",
+        "Zoom",
+        "Skype",
+        "GitHub"
+      ],
+      "level": "",
+      "name": "Colabreative Platforms"
+    },
+    {
+      "keywords": [
+        "Class 5 DL",
+        "Air Break Endorcement",
+        "Goose Neck Trailers",
+        "Bumper Pull",
+        "Dispatch"
+      ],
+      "level": "",
+      "name": "Other"
+    }
+  ],
+	"awards": [
+    {
+      "title": "HD Preformance P101 & P201",
+      "awarder": "InEight"
+    },
+    {
+      "title": "Microsoft Office User Specialist (MOUS)",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "Microsoft Certified Systems Enginner (MCSE)",
+      "awarder": "Microsoft"
+    },
+    {
+      "title": "Train the Trainer",
+      "awarder": "Alberta Construction Safety Association"
+    },
+    {
+      "title": "CSTS",
+      "awarder": "Alberta Construction Safety Association"
+    }
+  ],
+  "work": [
+    {
+      "summary": "",
+      "website": "http://www.evmtsolutions.com",
+      "company": "EVMT Solutions",
+      "location": "Edmonton",
+      "position": "Solution Provider",
+      "startDate": "2020-03-18",
+      "endDate":  "2021-03-18",
+      "highlights": [
+        "Adding Value to our Changing World"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "http://awwcommercial.com/",
+      "company": "All Weather Windows Commercial",
+      "location": "Edmonton",
+      "position": "Project Coordinator",
+      "startDate": "2020-01-21",
+      "endDate": "2020-03-17",
+      "highlights": [
+        "Streamlined Propsal / Estimating Process"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.valard.com",
+      "company": "Quanta Services - Valard Construction",
+      "location": "Edmonton",
+      "position": "Scheduler - Project Controls Specialist",
+      "startDate": "2019-08-19",
+      "endDate": "2020-01-20",
+      "highlights": [
+        "Preliminary Construction Schedule - Watay Project",
+        "Construction Schedule - Trans Mountain Expansion Project - Kingsvale roject",
+        "Introduced PowerQuery and Power BI for Reporting"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.profabservices.ca/",
+      "company": "Profab Energy Services",
+      "location": "Edmonton",
+      "position": "Project Controls Manager",
+      "startDate": "2019-01-18",
+      "endDate": "2019-06-20",
+      "highlights": [
+        "Daily LEMS and Productivies to Client",
+        "25 Million Mechanical Install Contract",
+        "12 Subcontractors - 500,000 sf Food Processing Facility"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "http://www.basemethod.com/",
+      "company": "Basemethod",
+      "location": "Edmonton",
+      "position": "Business Analyst - Hard Dollar ",
+      "startDate": "2016-06-17",
+      "endDate": "2019-01-15",
+      "highlights": [
+        "Pipeline Planning",
+        "Estimating",
+        "Power Bi Report Development"
+      ]
+        },
+    {
+      "summary": "",
+      "website": "https://www.waiward.com/",
+      "company": "Waiward Steel",
+      "location": "Edmonton",
+      "position": "Workface Planner",
+      "startDate": "2015-02-08",
+      "endDate": "2016-06-15",
+      "highlights": [
+        "Suncor Fort Hills Convyor and Crusher Install",
+        "Furnace and Cracker Shutdown Planning Agrium - Redwater",
+        "Implemented Earned Value Managment Tracking System"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://wbmelback.com/",
+      "company": "WB Melback",
+      "location": "Prince Rupert, BC",
+      "position": "Scheduler - Project Controls Specialist",
+      "startDate": "2014-03-15",
+      "endDate": "2014-12-20",
+      "highlights": [
+        "Retrofit 30 Year Old Stacker Reclaimer",
+        "Detailed Level 5 Schedule",
+        "Daily Subcontractor Managment"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.clearstreamenergy.ca/",
+      "company": "Clearstream Energy",
+      "location": "Lloydminster, SK",
+      "position": "Project Coordinator",
+      "startDate": "2013-05-08",
+      "endDate": "2014-02-09",
+      "highlights": [
+        "Major Full Facility 50 Day Shutdown",
+        "Small Capitol Project Team",
+        "Multi Contractor Cordination"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://trotterandmorton.com/whaler",
+      "company": "Trotter and Morten - Whaler",
+      "position": "Project Coordinator",
+      "location": "Christina Lake, AB",
+      "startDate": "2012-12-12",
+      "endDate": "2013-05-07",
+      "highlights": [
+        "Cold Lake Air Weapons Range - Christina Lake",
+        "90 Plus Work packages",
+        "Client Supplied Resourse Coordination"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://phoenixindustrial.ca",
+      "company": "Phoenix Industrial",
+      "position": "Workface Planner",
+      "location": "Nisku, AB",
+      "startDate": "2012-05-08",
+      "endDate": "2012-11-09",
+      "highlights": [
+        "Multi Client and Multi Project Modualerization",
+        "Daily Disipline Scorecards ",
+        "Weld map Workface planning intergration"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://nacg.ca/",
+      "company": "North American Construction Group",
+      "position": "Project Coordinator",
+      "location": "Mount Milligan, BC",
+      "startDate": "2011-05-08",
+      "endDate": "2012-04-27",
+      "highlights": [
+        "Quantity Survey/Tracking and Invoice Preperation",
+        "Travel and Accomadication Coordination",
+        "Change Managment"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.jacobs.com/",
+      "company": "Jacobs - JFSL",
+      "position": "Project Coordinator",
+      "location": "Norman Wells, NT / Edmonton, AB",
+      "startDate": "2010-06-01",
+      "endDate": "2011-05-01",
+      "highlights": [
+        "Daily Client LEMS",
+        "HR / Trades Liasion",
+        "Travel and Accomadication Coordination"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.flintenergy.com/",
+      "company": "Flint Energy",
+      "position": "Project Coordinator / Crane Operator",
+      "location": "Edmonton, AB",
+      "startDate": "2007-06-01",
+      "endDate": "2010-05-20",
+      "highlights": [
+        "3rd Year Crane Operator",
+        "Managed locations and delivery of 80k of Pipe Spools and Structural Steel",
+        "LEM's for multi clients and projects Daily"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.sobeys.com/",
+      "company": "Sobeys Distribution Centre",
+      "position": "Warehouse Worker",
+      "location": "Edmonton, AB",
+      "startDate": "2007-02-16",
+      "endDate": "2007-05-21",
+      "highlights": [
+        "Forklift Operator",
+        "Order Picker",
+        "Truck Loading"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Vegreville Senior Housing",
+      "position": "Interm - Chief Administrative Officer",
+      "location": "Vegreville, AB",
+      "startDate": "2006-10-27",
+      "endDate": "2007-01-27",
+      "highlights": [
+        "Assisted with Opening of Century Park - Care Facility"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.pcl.com",
+      "company": "PCL Construction",
+      "position": "Quality Control",
+      "location": "Cold Lake, AB",
+      "startDate": "2006-01-09",
+      "endDate": "2006-08-09",
+      "highlights": [
+        "Managed Crew of 20",
+        "Completed Deficiencies prior to turnover"
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.civeo.com/",
+      "company": "Civeo",
+      "position": "Assistant Kitchen Manager",
+      "location": "Fort McMurray, AB",
+      "startDate": "2005-02-01",
+      "endDate": "2005-10-01",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://flintenergy.com/",
+      "company": "Flint Energy",
+      "position": "Equipment Operator / Pipefitter",
+      "location": "Fort McMurray, AB",
+      "startDate": "2004-06-01",
+      "endDate": "2004-10-01",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "http://www.bellmts.ca/",
+      "company": "MTS - Allstream",
+      "position": "Bussiness Analyst ICMS - AS400",
+      "location": "Calgary, AB",
+      "startDate": "1999-07-15",
+      "endDate": "2004-04-15",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Cat and Fiddle Pub",
+      "position": "Weekend Kitchen Manager",
+      "location": "Calgary, AB",
+      "startDate": "1998-06-15",
+      "endDate": "1999-06-15",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.wacl.com/",
+      "company": "Wallace and Carey",
+      "position": "Delivery Driver",
+      "location": "Calgary, AB",
+      "startDate": "1997-01-01",
+      "endDate": "1998-05-15",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.alliedvanlines.ca/",
+      "company": "Allied Van Lines",
+      "position": "Commercial Office Move Driver",
+      "location": "Calgary, AB",
+      "startDate": "1996-05-15",
+      "endDate": "2004-01-09",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Revelstoke Printing",
+      "position": "Graphic Artist",
+      "location": "Revelstoke, BC",
+      "startDate": "1995-04-08",
+      "endDate": "1996-04-08",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.eurotile.ca/",
+      "company": "Euro Ceramic Tile Distributors",
+      "position": "Warehouse Worker",
+      "location": "Vancouver, BC",
+      "startDate": "1995-07-20",
+      "endDate": "1996-04-02",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Route 66 Tap and Grill",
+      "position": "Kitchen Manager",
+      "location": "Vancouver, BC",
+      "startDate": "1995-05-30",
+      "endDate": "1995-07-20",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://innsnorth.com/siniktarvik/",
+      "company": "Siniktarvik Hotel & Conference Centre",
+      "position": "Assistant Chef",
+      "location": "Rankin Inlet, NWT",
+      "startDate": "1993-06-13",
+      "endDate": "1993-12-06",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Hilton - Double Tree - Toronoto Downtown",
+      "position": "Breakfast Cook",
+      "location": "Toronoto, ON",
+      "startDate": "1992-11-08",
+      "endDate": "1993-05-13",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Jaspers Family Restarount",
+      "position": "Back Shift Cook",
+      "location": "Sydney, NS",
+      "startDate": "1992-05-08",
+      "endDate": "1992-10-09",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.alliedvanlines.ca/",
+      "company": "Allied Van Lines",
+      "position": "Driver / Swamper",
+      "location": "Halifax, NS",
+      "startDate": "1992-01-10",
+      "endDate": "1992-04-30",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.marriott.com/four-points-halifax",
+      "company": "Sherton",
+      "position": "2nd Cook",
+      "location": "Halifax, NS",
+      "startDate": "1990-05-15",
+      "endDate": "1992-01-04",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Sheldon's Used Cars",
+      "position": "Shuttle Car Driver",
+      "location": "Sydney River, NS",
+      "startDate": "1988-07-01",
+      "endDate": "1989-08-15",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Petite Jean",
+      "position": "Prep Cook / Dishwasher",
+      "location": "Sydney, NS",
+      "startDate": "1986-11-01",
+      "endDate": "1988-01-01",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "https://www.mcdonalds.ca",
+      "company": "McDonalds",
+      "position": "Kitchen / Comuster Service",
+      "location": "Sydney River, NS",
+      "startDate": "1985-12-12",
+      "endDate": "1986-10-17",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Sears Canada",
+      "position": "Door to Door Catalog Delevery",
+      "location": "Coxheath, NS",
+      "startDate": "1983-01-01",
+      "endDate": "1985-09-01",
+      "highlights": [
+      ]
+    },
+    {
+      "summary": "",
+      "website": "",
+      "company": "Construction",
+      "position": "Labourer",
+      "location": "Sydney, NS",
+      "startDate": "1983-07-01",
+      "endDate": "1985-09-01",
+      "highlights": [
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "3-D Printing"
+    },
+    {
+      "name": "CNC"
+    },
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Electronics"
+    },
+    {
+      "name": "Swimming"
+    },
+    {
+    "name": "Open Source"
+    }
+   ]
+}
