@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mark D Hamm",
-    "label": "Scheduler - Reporting Engineer - Project Controls - Estimator - Data Scientist",
+    "label": "Project Controls",
     "picture": "",
     "email": "mark.d.hamm@outlook.com",
     "phone": "(780) 868-5726",
@@ -52,7 +52,7 @@
     {
       "endDate": "2004-05-01",
       "startDate": "2004-04-01",
-      "area": "Heavy Equipment Operator",
+      "area": "Equipment Operator",
       "studyType": "Certification",
       "institution": "Okanagan College's Vernon campus"
     },
@@ -62,34 +62,6 @@
       "area": "Information Technology Professional",
       "studyType": "Certification",
       "institution": "Southern Alberta Institute of Technology"
-    },
-    {
-      "endDate": "1995-05-01",
-      "startDate": "1994-09-01",
-      "area": "Graphic Communications",
-      "studyType": "Certification",
-      "institution": "Northern Alberta Institute of Technology"
-    },
-    {
-      "endDate": "1991-05-31",
-      "startDate": "1990-09-06",
-      "area": "Commercial Cooking",
-      "studyType": "Apprenticeship",
-      "institution": "Nova Scotia Community College"
-    },
-    {
-      "endDate": "1990-04-30",
-      "startDate": "1989-01-09",
-      "area": "Culinary Arts",
-      "studyType": "Apprenticeship",
-      "institution": "Holland College"
-    },
-    {
-      "endDate": "1989-06-24",
-      "startDate": "1985-09-06",
-      "area": "High School",
-      "studyType": "Academic",
-      "institution": "Riverview Rural High School"
     }
   ],
   "references": [
@@ -179,7 +151,7 @@
       "name": "Other"
     }
   ],
-	"awards": [
+  "awards": [
     {
       "title": "HD Performance P101 & P201",
       "awarder": "InEight"
@@ -194,7 +166,7 @@
     },
     {
       "title": "Train the Trainer",
-      "awarder": "Alberta Construction Safety Association"
+      "awarder": "In"
     },
     {
       "title": "CSTS",
@@ -209,7 +181,7 @@
       "location": "Edmonton",
       "position": "Solution Provider",
       "startDate": "2020-03-18",
-      "endDate":  "2021-03-18",
+      "endDate": "2021-03-18",
       "highlights": [
         "Adding Value to our Changing World"
       ]
@@ -267,7 +239,7 @@
         "Estimating",
         "Power Bi Report Development"
       ]
-        },
+    },
     {
       "summary": "",
       "website": "https://www.waiward.com/",
@@ -382,32 +354,6 @@
     },
     {
       "summary": "",
-      "website": "https://www.sobeys.com/",
-      "company": "Sobeys Distribution Centre",
-      "position": "Warehouse Worker",
-      "location": "Edmonton, AB",
-      "startDate": "2007-02-16",
-      "endDate": "2007-05-21",
-      "highlights": [
-        "Forklift Operator",
-        "Order Picker",
-        "Truck Loading"
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Vegreville Senior Housing",
-      "position": "Interim - Chief Administrative Officer",
-      "location": "Vegreville, AB",
-      "startDate": "2006-10-27",
-      "endDate": "2007-01-27",
-      "highlights": [
-        "Assisted with Opening of Century Park - Care Facility"
-      ]
-    },
-    {
-      "summary": "",
       "website": "https://www.pcl.com",
       "company": "PCL Construction",
       "position": "Quality Control",
@@ -421,25 +367,13 @@
     },
     {
       "summary": "",
-      "website": "https://www.civeo.com/",
-      "company": "Civeo",
-      "position": "Assistant Kitchen Manager",
-      "location": "Fort McMurray, AB",
-      "startDate": "2005-02-01",
-      "endDate": "2005-10-01",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
       "website": "https://flintenergy.com/",
       "company": "Flint Energy",
       "position": "Equipment Operator / Pipefitter",
       "location": "Fort McMurray, AB",
       "startDate": "2004-06-01",
       "endDate": "2004-10-01",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "summary": "",
@@ -449,184 +383,7 @@
       "location": "Calgary, AB",
       "startDate": "1999-07-15",
       "endDate": "2004-04-15",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Cat and Fiddle Pub",
-      "position": "Weekend Kitchen Manager",
-      "location": "Calgary, AB",
-      "startDate": "1998-06-15",
-      "endDate": "1999-06-15",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.wacl.com/",
-      "company": "Wallace and Carey",
-      "position": "Delivery Driver",
-      "location": "Calgary, AB",
-      "startDate": "1997-01-01",
-      "endDate": "1998-05-15",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.alliedvanlines.ca/",
-      "company": "Allied Van Lines",
-      "position": "Commercial Office Move Driver",
-      "location": "Calgary, AB",
-      "startDate": "1996-05-15",
-      "endDate": "2004-01-09",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Revelstoke Printing",
-      "position": "Graphic Artist",
-      "location": "Revelstoke, BC",
-      "startDate": "1995-04-08",
-      "endDate": "1996-04-08",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.eurotile.ca/",
-      "company": "Euro Ceramic Tile Distributors",
-      "position": "Warehouse Worker",
-      "location": "Vancouver, BC",
-      "startDate": "1995-07-20",
-      "endDate": "1996-04-02",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Route 66 Tap and Grill",
-      "position": "Kitchen Manager",
-      "location": "Vancouver, BC",
-      "startDate": "1995-05-30",
-      "endDate": "1995-07-20",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://innsnorth.com/siniktarvik/",
-      "company": "Siniktarvik Hotel & Conference Centre",
-      "position": "Assistant Chef",
-      "location": "Rankin Inlet, NWT",
-      "startDate": "1993-06-13",
-      "endDate": "1993-12-06",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Hilton - Double Tree - Toronoto Downtown",
-      "position": "Breakfast Cook",
-      "location": "Toronoto, ON",
-      "startDate": "1992-11-08",
-      "endDate": "1993-05-13",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Jaspers Family Restaurant",
-      "position": "Back Shift Cook",
-      "location": "Sydney, NS",
-      "startDate": "1992-05-08",
-      "endDate": "1992-10-09",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.alliedvanlines.ca/",
-      "company": "Allied Van Lines",
-      "position": "Driver / Swamper",
-      "location": "Halifax, NS",
-      "startDate": "1992-01-10",
-      "endDate": "1992-04-30",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.marriott.com/four-points-halifax",
-      "company": "Sheraton",
-      "position": "2nd Cook",
-      "location": "Halifax, NS",
-      "startDate": "1990-05-15",
-      "endDate": "1992-01-04",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Sheldon's Used Cars",
-      "position": "Shuttle Car Driver",
-      "location": "Sydney River, NS",
-      "startDate": "1988-07-01",
-      "endDate": "1989-08-15",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Petite Jean",
-      "position": "Prep Cook / Dishwasher",
-      "location": "Sydney, NS",
-      "startDate": "1986-11-01",
-      "endDate": "1988-01-01",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "https://www.mcdonalds.ca",
-      "company": "McDonalds",
-      "position": "Kitchen / Customer Service",
-      "location": "Sydney River, NS",
-      "startDate": "1985-12-12",
-      "endDate": "1986-10-17",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Sears Canada",
-      "position": "Door to Door Catalog Delivery",
-      "location": "Coxheath, NS",
-      "startDate": "1983-01-01",
-      "endDate": "1985-09-01",
-      "highlights": [
-      ]
-    },
-    {
-      "summary": "",
-      "website": "",
-      "company": "Construction",
-      "position": "Labourer",
-      "location": "Sydney, NS",
-      "startDate": "1983-07-01",
-      "endDate": "1985-09-01",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "interests": [
@@ -655,7 +412,7 @@
       "name": "Swimming"
     },
     {
-    "name": "Open Source"
+      "name": "Open Source"
     }
-   ]
+  ]
 }
